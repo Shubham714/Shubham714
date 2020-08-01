@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Shubham 👋
+![Dino](https://github.com/Shubham714/Shubham714/blob/master/life-cycle.gif)
 
 <!--
 **Shubham714/Shubham714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
