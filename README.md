@@ -2,7 +2,7 @@
 
 ## My Strategy 👇
 
-<img src="strategy.png" alt="Strategy">
+![Strategy](https://github.com/Shubham714/Shubham714/blob/master/strategy.png)
 
 <!--
 **Shubham714/Shubham714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
